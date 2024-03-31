@@ -9,8 +9,8 @@ In particular, 2Market wants to understand:
 - Which products seem to sell the best and if that varies based on demographic
 
 # The following files were attached
-marketing_data.csv
-ad_data.csv
-metadata_2Market.txt 
-A Tableau dashboard (as a TWBX file)
-A PDF report indicating my approach, thought process, results, conclusions, and recommendations 
+- marketing_data.csv
+- ad_data.csv
+- metadata_2Market.txt 
+- Tableau dashboard (as a TWBX file)
+- PDF report indicating my approach, thought process, results, conclusions, and recommendations 
