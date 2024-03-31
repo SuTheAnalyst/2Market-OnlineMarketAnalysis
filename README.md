@@ -1,6 +1,6 @@
 # 2Market-OnlineMarketAnalysis
-# Exploratory analysis and presenting insights
-# Context of the business
+Exploratory analysis and presenting insights
+Context of the business
 2Market is a global supermarket which sells products online and in-store. The goal of this prject is to help them understand their customer purchase behaviour. 
 
 In particular, 2Market wants to understand:
